@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anatomy of a Web Page: 19 Essential Elemntd-Halo Lab</title>
+</head>
+<body>
+    <header>
+        <img src="" alt="logo">
+        <h1>HALO LAB</h1>
+        <a href="">SERVICES</a>
+        <a href="">PROJECTS</a>
+        <a href="">DEDICATED TEAM</a>
+        <a href="">RESOURCES</a>
+        <a href="">PRICING</a>
+        <button>
+            CONTACT US
+            <input type="text">
+        </button>
+
+        <nav>
+            <a href="">ALL BLOG POSTS</a>
+            <a href="">DESGIN</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>19 vital parts for your website page to maximize user engagement</h1>
+        <article>
+            <img src="" alt="logo">
+            10 JAN
+             <img src="" alt="logo">
+             <a href="">SCROLL</a>
+        </article>
+
+        <aside>
+            <p>SHARE</p>
+            <button>
+                <img src="" alt="logo">
+            </button>
+            <button>
+                <img src="" alt="logo">
+            </button>
+            <button>
+                <img src="" alt="logo">
+            </button>
+            <button>
+                <img src="" alt="logo">
+            </button>
+        </aside>
+
+        <aside>
+            <p>TABLE OF CONTENTS</p>
+            <a href="">Why do you need to think about page structure<br></a>
+            <a href="">19 crucial elements of a web page<br></a>
+            <a href="">Final point<br></a>
+            <p>
+                <img src="" alt="logo">
+                15 MIN READ
+                <button>
+                    REQUEST A QUOTE
+                    <img src="" alt="logo">
+                </button>
+            </p>
+        </aside>
+        
+        <section>
+            <h2>Chances are, there’s been a time when you’ve clicked through endless links, scrolling page after page in a seemingly futile quest for the right information. This journey often ended with you exiting the website as empty-handed as when you started, right? To avoid falling into this trap, knowing the essential digital elements can completely transform your project’s digital presence.</h2>
+            <img src="" alt="logo">
+            <a href="">Valentine Boyev<br></a>
+            <a href="">CEO at Halo Lab<br></a>
+        </section>
+
+        <section>
+            <p>Web design and page structure play a big role in encouraging users to click and scroll. But what if there was a blueprint to ensure that every single one of your web pages is visitor-friendly? Well, you’re in the right place, as today we’ll break down 19 essential elements of a successful website and share insider tips on how to use them properly.</p>
+            <article>
+                <h3>Why do you need to think about page structure</h3>
+                <p>Let’s start by defining what a webpage is, as it is not the same as a website. Simply put, it’s an individual page with specific URLs, different content, and unique images, where every element plays a crucial role in engaging the visitor. When talking about its structure, we’re addressing how all these pieces fit together to make something that’s good to look at and makes sense to use.</p>
+                <p>The organized webpage is the foundation of your online presence. It’s what guides your visitors through the content, like invisible signposts pointing to where they want to go. Without a well-thought-out structure, even the most visually stunning page can leave users lost and confused, resulting in a higher bounce rate and lower engagement.</p>
+            </article>
+        </section>
+
+        <section>
+            <h3>19 crucial elements of a web page</h3>
+            <p>When it comes to designing a webpage, it’s all about picking the right elements. Interactive pop-ups, hidden buttons, flashy CTAs — these choices determine whether a user clicks, keeps browsing, or leaves. But there is much more to uncover, and in the following paragraphs, we’ll briefly review 19 must-have components that make a webpage both functional and attractive.</p>
+
+            <h3>1. Header</h3>
+            <p>First up is the header or a site menu. Sitting right at the top, it is the primary thing anyone sees, no matter which page they land on. This element is strategically important, allowing users to jump from one page to the next without hindrance. It often includes a logo, main navigation, and sometimes a contact button or social media links. </p>
+            <p>Your header is a site guide that ensures visitors know exactly where they are and how to find what they’re looking for. But here’s the thing — while it might be tempting to pack the header with as much information as possible, it’s crucial not to overload it. This approach helps in finding the perfect balance between providing essential information and maintaining simplicity.</p>
+        </section>
+
+        <section>
+         
