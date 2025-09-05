@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Anatomy of a Web Page: 14 Basic Elements</title>
+</head>
+<body>
+    <header>
+        <h1><img src="" alt=".">tubik</h1>
+        <a href="">blog</a>
+        
+        <section>
+            <article>
+                <input type="search">
+                <a href="">search</a>
+                <a href="">browse</a>
+                <a href="">contact us</a>
+            </article>
+        </section>
+
+    <nav>
+        <a href="">all topics</a>
+        <a href="">animation</a>
+        <a href="">branding</a>
+        <a href="">bsuiness</a>
+        <a href="">case study</a>
+        <a href="">illustration</a>
+        <a href="">processes and tools</a>
+        <a href="">ui/ux</a>
+    </nav>    
+    </header>
+
+    <main>
+        <p>UI/UX</p>
+        <h1>The Anatomy of a Web Page: 14 Basic Elements</h1>
+        <p>Review the essential elements of a web page, learn what impact each element has and how it contributes to the general user experience. Packed with web design examples.</p>
+        <p>by Marina Yalanska</p>
+
+        <aside>
+            <p>Share</p>
+            <button>
+                <img src="" alt="l">
+                F
+            </button>
+            <button>
+                <img src="" alt="l">
+                X
+            </button>
+            <button>
+                <img src="" alt="l">
+                P
+            </button>
+            <button>
+                <img src="" alt="l">
+                IN
+            </button>
+            <button>
+                <img src="" alt="l">
+                
+            </button>
+        </aside>
+
+        <section>
+            <p>“The details are not the details. They make the design,” Charles Eames once said, and that has never stopped to be true. Starting to design a web page, we have to consider what it should consist of to solve the task set for it and be both usable and beautiful. Our today’s article is devoted right to those vital details that create an effective web page. Let’s briefly review what elements can be essential for a typical web page, what impact each element has, and how it contributes to the general user experience. Packed with plenty of web design examples.</p>
+        </section>
+
+        <section>
+            <h1>Header</h1>
+            <p>Header is the upper (top) part of the webpage. Being the area people see before scrolling the page in their first seconds on the website, the header is an element of strategic importance. It is expected from the header to provide the core navigation around the website so that users could scan it in split seconds and jump to the main pages that can help them. Headers are also referred to as site menus and positioned as an element of primary navigation in the website layout.</p>
+            <p>Headers may include a bunch of meaningful layout elements, for example:</p>
+            <ul>
+                <li>basic elements of brand identity, usually a logo</li>
+                <li>call-to-action button</li>
+                <li>links to basic categories of website content</li>
+                <li>links to the social networks</li>
+                <li>basic contact information (telephone number, e-mail address, etc.)</li>
+                <li>switcher of the languages in case of the multilingual interface</li>
+                <li><a href="">search field</a></li>
+                <li>subscription field or button</li>
+                <li>links to interaction with the product such as trial version, downloading from the AppStore, etc.</li>
+            </ul>
+            <p>It doesn’t mean that all the mentioned elements should be included in one web page header: in this case, the header section would be overloaded with information. The more objects attract the user’s attention, the harder it is to concentrate on the vital ones. On the basis of design tasks, designers, sometimes together with marketing specialists, decide on the strategically important options and pick them up from the list or add the others.</p>
+        </section>
+
+        <section>
+            <p>What makes a header a vital element contributing to web usability is the fact that it is placed in the most scannable zone of a web page. Whatever is the <a href="">scanning pattern</a> users stick to on a website, it starts from the top part of the page, scanned from left to right for languages using the same reading and writing pattern. It means that what is placed in the header won’t be missed, especially the elements placed in its left and right corners. That’s why you will often find the main CTA button in one of them. What’s more, the power of habit and the idea of <a href="">external consistency</a> of user experience should also be taken into account here. For years so far, visitors have been used to finding core navigation in headers, so mostly, the main question is to decide what to put into it 
